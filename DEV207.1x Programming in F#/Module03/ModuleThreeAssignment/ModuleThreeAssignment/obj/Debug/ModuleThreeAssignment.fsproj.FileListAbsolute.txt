@@ -1,0 +1,8 @@
+E:\Temp\Training\edX\DEV207.1x Programming in F#\visual studio 2013\Projects\Module03\ModuleThreeAssignment\ModuleThreeAssignment\bin\Debug\ModuleThreeAssignment.exe.config
+E:\Temp\Training\edX\DEV207.1x Programming in F#\visual studio 2013\Projects\Module03\ModuleThreeAssignment\ModuleThreeAssignment\bin\Debug\ModuleThreeAssignment.XML
+E:\Temp\Training\edX\DEV207.1x Programming in F#\visual studio 2013\Projects\Module03\ModuleThreeAssignment\ModuleThreeAssignment\bin\Debug\ModuleThreeAssignment.exe
+E:\Temp\Training\edX\DEV207.1x Programming in F#\visual studio 2013\Projects\Module03\ModuleThreeAssignment\ModuleThreeAssignment\bin\Debug\ModuleThreeAssignment.pdb
+E:\Temp\Training\edX\DEV207.1x Programming in F#\visual studio 2013\Projects\Module03\ModuleThreeAssignment\ModuleThreeAssignment\bin\Debug\FSharp.Core.dll
+E:\Temp\Training\edX\DEV207.1x Programming in F#\visual studio 2013\Projects\Module03\ModuleThreeAssignment\ModuleThreeAssignment\bin\Debug\FSharp.Core.xml
+E:\Temp\Training\edX\DEV207.1x Programming in F#\visual studio 2013\Projects\Module03\ModuleThreeAssignment\ModuleThreeAssignment\obj\Debug\ModuleThreeAssignment.exe
+E:\Temp\Training\edX\DEV207.1x Programming in F#\visual studio 2013\Projects\Module03\ModuleThreeAssignment\ModuleThreeAssignment\obj\Debug\ModuleThreeAssignment.pdb
